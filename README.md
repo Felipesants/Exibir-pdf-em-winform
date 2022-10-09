@@ -15,7 +15,7 @@ Neste repositorio é utilizado dois metodos diferentes para abrir um PDF
     <li>PdfiumViewer - Pieter van Ginkel</li>
     <li>PdfiumViewer.Native.x86.no_v8-no_xfa - Pieter van Ginkel</li>
   </ul>
-  Nesta opção será utilizado o conceito de herança passando valores de um form pai para um form filho
+  <p>Nesta opção será utilizado o conceito de herança passando valores de um form pai para um form filho</p>
     
    <br>
    <br>
